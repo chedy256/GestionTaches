@@ -2,7 +2,7 @@
 GestionTaches/target/maven-status/maven-compiler-plugin/compile/*
 GestionTaches/target/maven-status/maven-compiler-plugin/testCompile/*
 target/test-classes/
-
+target/test-classes/*.jar
 # Maven build directory
 GestionTaches/target/
 
